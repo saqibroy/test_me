@@ -16,7 +16,22 @@
 //= require bootstrap
 //= require bootstrap-sprockets
 //= require turbolinks
-
+//= require js/plugins/icheck/icheck.min
+//= require js/plugins/mcustomscrollbar/jquery.mCustomScrollbar.min
+//= require js/plugins/scrolltotop/scrolltopcontrol
+//= require js/plugins/morris/raphael-min
+//= require js/plugins/morris/morris.min
+//= require js/plugins/rickshaw/d3.v3
+//= require js/plugins/rickshaw/rickshaw.min
+//= require js/plugins/jvectormap/jquery-jvectormap-1.2.2.min
+//= require js/plugins/jvectormap/jquery-jvectormap-world-mill-en
+//= require js/plugins/bootstrap/bootstrap-datepicker
+//= require js/plugins/owl/owl.carousel.min
+//= require js/plugins/moment.min
+//= require js/settings
+//= require js/plugins
+//= require js/actions
+//= require js/demo_dashboard
 
 
 
