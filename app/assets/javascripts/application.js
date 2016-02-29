@@ -13,7 +13,7 @@
 //= require jquery
 //= require jquery_ujs
 //= require js/plugins/jquery/jquery-ui.min
-//= require bootstrap
+
 //= require bootstrap-sprockets
 //= require turbolinks
 //= require js/plugins/icheck/icheck.min
@@ -32,5 +32,6 @@
 //= require js/plugins
 //= require js/actions
 //= require js/demo_dashboard
+//= require bootstrap
 
 
